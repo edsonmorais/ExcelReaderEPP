@@ -1,0 +1,14 @@
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojAssemblyReference.cache
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\EPPlus.dll
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\EPPlus.xml
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CopyComplete
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edson.morais\source\repos\ExcelReader\ExcelReader\bin\Debug\Assets\Base_de_dados.xlsx
